@@ -1,8 +1,8 @@
-const BUILD='7842';
+const BUILD='7843';
 const CACHE=`almezan-phone-scanner-v${BUILD}`;
 const CORE=[
   './mobile-scanner.html',
-  './phone-scanner-v7842.js?v='+BUILD,
+  './phone-scanner-v7843.js?v='+BUILD,
   './scanner-manifest.webmanifest?v='+BUILD,
   './brand-logo.png?v='+BUILD,
   './barcode-scan.mp3?v='+BUILD,
